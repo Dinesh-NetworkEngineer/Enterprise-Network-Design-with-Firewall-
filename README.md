@@ -16,4 +16,8 @@ Enterprise Network Design with implementing firewall  using Cisco Packet Tracer,
 •Network Security - ASA Firewall
 •DNS Server
 
+# Success Output
+<img width="821" height="141" alt="SUCCESS OUTPUT 2" src="https://github.com/user-attachments/assets/371a0365-81bb-4045-adf8-abaa7c992cee" />
+<img width="866" height="141" alt="SUCCESS OUTPUT 1" src="https://github.com/user-attachments/assets/d43decd3-c12c-4fd6-b496-ee9a2a58853f" />
+
 
