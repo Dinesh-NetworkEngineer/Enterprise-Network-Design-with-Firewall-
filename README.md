@@ -6,4 +6,14 @@ Enterprise Network Design with implementing firewall  using Cisco Packet Tracer,
 # Configuration-Word Document
 [Enterprise Network Project With Firewall.docx](https://github.com/user-attachments/files/34575018/Enterprise.Network.Project.With.Firewall.docx)
 
+# Technologies Used
+•Cisco Packet Tracer
+•VLAN Configuration
+•Access Ports
+•Trunk Ports
+•Inter-VLAN Routing
+•IP Addressing
+•Network Security - ASA Firewall
+•DNS Server
+
 
